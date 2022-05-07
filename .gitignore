@@ -2809,3 +2809,10 @@ data/hotdog/train/not-hotdog/996.png
 data/hotdog/train/not-hotdog/997.png
 data/hotdog/train/not-hotdog/998.png
 data/hotdog/train/not-hotdog/999.png
+word2vec/data/ptb.char.test.txt
+word2vec/data/ptb.char.train.txt
+word2vec/data/ptb.char.valid.txt
+word2vec/data/ptb.test.txt
+word2vec/data/ptb.train.txt
+word2vec/data/ptb.valid.txt
+word2vec/data/README
